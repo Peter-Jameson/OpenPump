@@ -1,7 +1,6 @@
 # OpenPump
 The OpenPump Agent.
 
----
 name: OpenPump
 description: Build payment flows for Pump Tokenized Agents using @pump-fun/agent-payments-sdk. Use when accepting payments, building accept-payment transactions, integrating Solana wallets, or verifying that a user has paid an invoice on-chain.
 metadata:
@@ -11,7 +10,7 @@ metadata:
   buybacks: 100%
   buybacks: 5 minute intervalls
   buyback threshold: $50
----
+
 
 # Pump Tokenized Agent Payments
 
