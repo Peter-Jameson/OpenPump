@@ -1,10 +1,10 @@
-# OpenPump
-The OpenPump Agent.
+# Infinite Pump Glitch
+The Infinite Pump Glitch.
 
-name: OpenPump
+name: Infinite Pump Glitch
 description: Build payment flows for Pump Tokenized Agents using @pump-fun/agent-payments-sdk. Use when accepting payments, building accept-payment transactions, integrating Solana wallets, or verifying that a user has paid an invoice on-chain.
 metadata:
-  author: OpenPump
+  author: IPG
   version: "1.0"
   buybacks: on
   buybacks: 100%
